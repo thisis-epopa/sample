@@ -23,6 +23,7 @@ namespace WpfApp1
         public MainWindow()
         {
             InitializeComponent();
+            resultLabel.Content="123";
         }
     }
 }
