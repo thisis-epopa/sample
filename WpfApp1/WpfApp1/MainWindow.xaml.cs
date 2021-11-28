@@ -25,5 +25,10 @@ namespace WpfApp1
             InitializeComponent();
             resultLabel.Content="1234";
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
